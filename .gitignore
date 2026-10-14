@@ -1,0 +1,7 @@
+# Ignored files
+.DS_Store
+Thumbs.db
+*.apk
+*.log
+.vercel
+node_modules
